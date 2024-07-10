@@ -2,4 +2,4 @@
 
 Segue repositório para solução da prática do Módulo 3, de HTML, do curso de Fullstack Python da EBAC.
 
-#### **_Fábio Felipe dos Santos_**
+### **_Fábio Felipe dos Santos_**
